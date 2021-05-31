@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+h1 {
+  line-height: 2;
+  color: #66BFBF;
+  font-size: 80px;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+p{
+  color:#40514E;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #11999E;
+}
+
+.top-container {
+  background-color:#fc5404;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background:black;
+}
+
+.bottom-container {
+  background-color:black;
+  margin:0;
+height: 150px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 600px;
+  top: 60px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+.geanysmecheru{
+  border-radius: 40%;
+height: 500px;
+}
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.barosan{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.masini{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.git{
+padding: 50px;
+}
+.only{
+  padding-bottom: 30px;
+}
+.btn{
+  background: #11999E;
+  background-image: -webkit-linear-gradient(top, #11999E, #11999E);
+  background-image: -moz-linear-gradient(top, #11999E, #11999E);
+  background-image: -ms-linear-gradient(top, #11999E, #11999E);
+  background-image: -o-linear-gradient(top, #11999E, #11999E);
+  background-image: -webkit-gradient(to bottom, #11999E, #11999E);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: 100;
+  padding: 8px;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #000000 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 50px;
+  margin-bottom: 80px;
+}
+.name{
+color: #EAF6F6;
+  margin: 0;
+
+}
+.footer-link{
+position: relative;
+top: 20px;
+padding: 10px;
+text-decoration: none;
+}
